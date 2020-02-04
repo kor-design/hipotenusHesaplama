@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\hipotenusHesaplama\hipotenus\hipotenus\bin\Debug\hipotenus.exe.config
+C:\Users\Windows10\Documents\GitHub\hipotenusHesaplama\hipotenus\hipotenus\bin\Debug\hipotenus.exe
+C:\Users\Windows10\Documents\GitHub\hipotenusHesaplama\hipotenus\hipotenus\bin\Debug\hipotenus.pdb
+C:\Users\Windows10\Documents\GitHub\hipotenusHesaplama\hipotenus\hipotenus\obj\Debug\hipotenus.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\hipotenusHesaplama\hipotenus\hipotenus\obj\Debug\hipotenus.exe
+C:\Users\Windows10\Documents\GitHub\hipotenusHesaplama\hipotenus\hipotenus\obj\Debug\hipotenus.pdb
